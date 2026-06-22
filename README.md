@@ -3,11 +3,13 @@
 <!-- HEADER BANNER — vibrant purple-to-cyan gradient wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:2563eb,60:06b6d4,100:10b981&height=240&section=header&text=Nimesh%20Denuwana%20Silva&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=%E2%9C%A6%20Software%20Engineer%20%C2%B7%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0%20%E2%9C%A6&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
+
 <!-- TYPING ANIMATION -->
-<br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=🚀+Full-Stack+Software+Engineer;⚡+React+%7C+Next.js+%7C+Spring+Boot+%7C+Node.js;🌐+Building+Scalable+Web+Systems;☁️+AWS+%7C+PostgreSQL+%7C+MongoDB;🎯+1.5%2B+Years+Professional+Experience" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;React+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Web+Applications;AWS+%7C+PostgreSQL+%7C+MongoDB;1.5%2B+Years+Experience+in+Development" alt="Typing SVG" />
+  </a>
+</p>
 
 <br/><br/>
 
