@@ -170,14 +170,6 @@ const nimesh = {
   <img src="https://img.shields.io/badge/Gmail-nimeshdenuwan2000-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
 </a>
 &nbsp;
-<a href="https://fb.com/nimesh.denuwan">
-  <img src="https://img.shields.io/badge/Facebook-Nimesh%20Denuwan-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/nimesh.denuwan">
-  <img src="https://img.shields.io/badge/Instagram-nimesh.denuwan-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
-</a>
-
 </div>
 
 <br/>
