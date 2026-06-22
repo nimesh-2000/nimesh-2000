@@ -37,7 +37,7 @@ const nimesh = {
   📍 location   : "Sri Lanka 🇱🇰",
   🎓 education  : [
     "BSc Software Engineering — Cardiff Metropolitan University (2024–2025)",
-    "HND Software Engineering — IJSE Panadura (2021–2023)",
+    "HND Software Engineering — IJSE (2021–2023)",
   ],
   💼 experience : "2+ Years | Intern → Associate → Freelance",
   🔥 stack      : ["React", "Next.js", "Spring Boot", "Node.js", "AWS", "PostgreSQL"],
