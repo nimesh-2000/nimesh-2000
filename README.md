@@ -7,7 +7,7 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;React+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Web+Applications;AWS+%7C+PostgreSQL+%7C+MongoDB;1.5%2B+Years+Experience+in+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;React+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Web+Applications;AWS+%7C+PostgreSQL+%7C+MongoDB;2%2B+Years+Experience+in+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ const nimesh = {
     "BSc Software Engineering — Cardiff Metropolitan University (2024–2025)",
     "HND Software Engineering — IJSE Panadura (2021–2023)",
   ],
-  💼 experience : "1.5+ Years | Intern → Associate → Freelance",
+  💼 experience : "2+ Years | Intern → Associate → Freelance",
   🔥 stack      : ["React", "Next.js", "Spring Boot", "Node.js", "AWS", "PostgreSQL"],
   🌱 learning   : ["System Design", "Cloud Architecture", "DevOps"],
   🎯 goal       : "Build impactful, scalable software solutions",
